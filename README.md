@@ -47,6 +47,11 @@ The application represents IoT devices as nodes and their connections as edges. 
 
 The simulation button changes link latency values to demonstrate how the optimal route can change.
 
+## 🚀 Live Demo
+
+**Try the application here:** [IoT Network Routing Simulator](https://iot-network-router-umjo9sxbjcuwdnajdgvnuv.streamlit.app/)
+
+
 ## Author
 
 Prachi Jangid
